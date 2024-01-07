@@ -22,11 +22,10 @@
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+  
 </p>
-- 👨‍🎓 An Information Technology Undergraduate from [ General Sir John Kotelawala Defence University](https://www.kdu.ac.lk/)
 
+- 👨‍🎓 An Information Technology Undergraduate from [General Sir John Kotelawala Defence University](https://www.kdu.ac.lk/)
 - 🌱 I’m currently learning **NodeJS,ReactJS**
 
 - 👯 I’m looking to collaborate on **AIMS(2nd year group project)**
