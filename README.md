@@ -10,8 +10,12 @@
 
 <br>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodinikeshanikasthuri&label=Profile%20views&color=0e75b6&style=flat" alt="vinodinikeshanikasthuri" /> </p>
 
+ <p align="center">
+ Watch my contribution graph get eaten by the snake 🐍
+ </p>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -19,7 +23,7 @@
 </div>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
-
+---
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
   
