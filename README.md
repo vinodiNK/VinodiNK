@@ -30,7 +30,7 @@
 </p>
 
 - 👨‍🎓 An Information Technology Undergraduate from [General Sir John Kotelawala Defence University](https://www.kdu.ac.lk/)
-- 🌱  I’m currently working on development technologies like ReactJS , React Native , MongoDB , ExpressJS, NodeJS etc**
+- 🌱  I’m currently working on development technologies like ReactJS  , MongoDB , ExpressJS, NodeJS etc**
 
 - 👯 I’m looking to collaborate on **AIMS(2nd year group project)**
 
