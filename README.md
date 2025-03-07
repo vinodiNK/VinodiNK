@@ -29,8 +29,8 @@
   
 </p>
 
-- 👨‍🎓 An Information Technology Undergraduate from [General Sir John Kotelawala Defence University](https://www.kdu.ac.lk/)
-- 🌱  I’m currently working on development technologies like ReactJS , MongoDB , ExpressJS , NodeJS , Firebase etc**
+- 👨‍🎓  An Information Technology Undergraduate from [General Sir John Kotelawala Defence University](https://www.kdu.ac.lk/)
+- 🌱 I’m currently working on development technologies like **ReactJS , MongoDB , ExpressJS , NodeJS , Firebase etc**
 
 - 👯 I’m looking to collaborate on **AIMS(2nd year group project)**
 
