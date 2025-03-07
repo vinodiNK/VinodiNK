@@ -34,7 +34,7 @@
 
 - 🌱 I'm Interested **in Full Stack Development**
 
-- 📫 How to reach me **vinodinikeshani@gmail.com**
+- 📫 Reach me via **vinodinikeshani@gmail.com**
 
 - 💪🏼 Future Goals: **Learn more technologies - Never stop creating new ideas.**
 
